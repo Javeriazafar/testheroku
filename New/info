@@ -1,0 +1,23 @@
+ Replacing 'AdminUser'
+   ---------------------
+   > transaction hash:    0x17fa58dbe97ae940d28dcf0eac8bf296a4dbc95942fee34fde1e0a0def898dc0
+   > Blocks: 2            Seconds: 17
+   > contract address:    0xeCCab0746fFe6d071D7Fc2D49BE63Ee1100a970d
+   > block number:        8169569
+   > block timestamp:     1614773309
+   > account:             0x6c318E1001642436c76EFbE2D6e31707169eD578
+   > balance:             18.712763512
+   > gas used:            1800976 (0x1b7b10)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.03601952 ETH
+
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.03601952 ETH
+
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.03601952 ETH
